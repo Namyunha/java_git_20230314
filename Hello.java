@@ -7,5 +7,6 @@ public class Hello {
 		System.out.println("Second commit!");
 		System.out.println("Forth commit!");
 		System.out.println("Five commit!");
+		System.out.println("six");
 	}
 }
